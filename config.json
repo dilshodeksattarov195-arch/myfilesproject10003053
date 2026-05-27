@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfarse",
+        "uuid": 25852804,
+        "checksum": "93o58c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
